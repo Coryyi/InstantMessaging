@@ -17,5 +17,5 @@
 
 ### 3. 项目源码
 * https://github.com/Coryyi/InstantMessaging
-
+* 参考博客：https://blog.csdn.net/moshowgame/article/details/80275084
 * 感谢参考项目：https://github.com/wonderheng/chat-room-strong
