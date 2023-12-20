@@ -16,5 +16,6 @@
 
 
 ### 3. 项目源码
+* https://github.com/Coryyi/InstantMessaging
 
-* https://github.com/wonderheng/chat-room-strong
+* 感谢参考项目：https://github.com/wonderheng/chat-room-strong
