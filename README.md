@@ -17,5 +17,8 @@
 
 ### 3. 项目源码
 * https://github.com/Coryyi/InstantMessaging
-* 参考博客：https://blog.csdn.net/moshowgame/article/details/80275084
+**参考博客：**
+* SpringBoot2.0集成WebSocket：https://blog.csdn.net/moshowgame/article/details/80275084
+* FastDFS与Springboot集成：https://blog.csdn.net/Coder_ljw/article/details/131820062
+* Docker中搭建FastDFS文件系统：https://blog.csdn.net/WuLex/article/details/130211915
 * 感谢参考项目：https://github.com/wonderheng/chat-room-strong
