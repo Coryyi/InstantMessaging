@@ -3,7 +3,7 @@
 
 ### 1. 技术
 
-* SpringBoot(Sping MVC + spring WebSocket + Spring Core + Spring Data)
+* SpringBoot(Sping MVC + spring WebSocket + Spring Data)
 
 * MongoDB
 * html 5 + CSS + jQuery
